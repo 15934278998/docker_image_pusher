@@ -1,1 +1,1 @@
-minio/minio:latest
+alpine:3.21.3
